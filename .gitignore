@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# VS Code settings
+.vscode/settings.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Spark temporary files
+spark-warehouse/
+
+# Databricks temporary files
+*.dbc
+
+
+data/*.csv
